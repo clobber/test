@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle' xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <channel>
+    <title>OpenEmu</title>
+    <link>http://openemu.org/updater/appcast-experimental.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>      
+    <item>
+	    <title>OpenEmu Version 1.0</title>
+	    <sparkle:releaseNotesLink>
+	      http://openemu.org/category/releasenotes/coreapp/OpenEmu_1.0.0b7.html
+	    </sparkle:releaseNotesLink>
+	    <pubDate>Sun, 27 Mar 2011 19:26:40 -0500</pubDate>
+	    <enclosure
+		    url="https://github.com/clobber/test/releases/download/v2.0/OpenEmu-experimental.zip"
+		    sparkle:version="1.0.0"
+		    type="application/octet-stream"
+		    length="23416720"
+		    sparkle:dsaSignature="MC0CFQCaPqfeiEp2CBeklV2bwO1H57ibEAIUX6Zqwa3Ul9WwNT3hY31sAc9Fsg4="
+	    />
+    </item>
+  </channel>
+</rss>
