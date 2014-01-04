@@ -12,10 +12,10 @@
 	    </sparkle:releaseNotesLink>
 	    <pubDate>Sun, 27 Mar 2011 19:26:40 -0500</pubDate>
 	    <enclosure
-		    url="https://github.com/clobber/test/releases/download/v2.0/OpenEmu_1.0.1-experimental.zip"
+		    url="https://github.com/clobber/test/releases/download/v2.0/OpenEmu_1.0.1.zip"
 		    sparkle:version="1.0.1"
 		    type="application/octet-stream"
-		    length="23712362"
+		    length="22455206"
 	    />
     </item>
   </channel>
