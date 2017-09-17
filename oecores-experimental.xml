@@ -226,7 +226,7 @@
   <core
     id="org.openemu.o2em"
     name="O2EM"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/o2em_appcast.xml">
+    appcastURL="https://raw.github.com/clobber/test/master/o2em_appcast.xml">
 
     <description>Odyssey2/Videopac emulator</description>
     <systems>
