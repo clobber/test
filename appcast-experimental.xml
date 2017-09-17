@@ -6,16 +6,17 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>OpenEmu Version 2.0.5</title>
+      <title>OpenEmu Version 2.0.6</title>
       <sparkle:releaseNotesLink>
         http://openemu.org/rnotes/2.0.5.html
       </sparkle:releaseNotesLink>
       <pubDate>Wed, 22 Mar 2017 12:19:50 -0600</pubDate>
       <enclosure
-        url="https://github.com/OpenEmu/OpenEmu/releases/download/v2.0.5/OpenEmu_2.0.5-experimental.zip"
-        sparkle:version="2.0.5"
+        url="https://github.com/OpenEmu/OpenEmu/releases/download/v2.0.6/OpenEmu_2.0.6-experimental.zip"
+        sparkle:version="2.0.6"
+        sparkle:dsaSignature="MCwCFCC0XvfJczSf/Bfu7o0x3Y503o71AhRp3LphMPRr4GB9dX3+o4FOB5Y7sA=="
         type="application/octet-stream"
-        length="39295197"
+        length="42382240"
       />
       <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
     </item>
