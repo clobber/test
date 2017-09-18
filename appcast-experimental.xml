@@ -16,7 +16,7 @@
         sparkle:version="2.0.6"
         sparkle:dsaSignature="MCwCFBMQuRH+gr0pt8U4C95MNkUFNGFxAhQ0kUhRZPgsX1aZdPa12MOj8QwLtw=="
         type="application/octet-stream"
-        length="42382240"
+        length="42382311"
       />
       <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
     </item>
