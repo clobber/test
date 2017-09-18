@@ -14,7 +14,7 @@
       <enclosure
         url="https://github.com/clobber/test/releases/download/v2.0.6/OpenEmu_2.0.6-experimental.zip"
         sparkle:version="2.0.6"
-        sparkle:dsaSignature="MCwCFCC0XvfJczSf/Bfu7o0x3Y503o71AhRp3LphMPRr4GB9dX3+o4FOB5Y7sA=="
+        sparkle:dsaSignature="MCwCFBMQuRH+gr0pt8U4C95MNkUFNGFxAhQ0kUhRZPgsX1aZdPa12MOj8QwLtw=="
         type="application/octet-stream"
         length="42382240"
       />
