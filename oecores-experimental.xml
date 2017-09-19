@@ -215,7 +215,7 @@
   <core
     id="org.openemu.bliss"
     name="Bliss"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/bliss_appcast.xml">
+    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/bliss_appcast2.xml">
 
     <description>Intellivision emulator</description>
     <systems>
@@ -237,7 +237,7 @@
   <core
     id="org.openemu.mgba"
     name="mGBA"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/mgba_appcast.xml">
+    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/mgba_appcast2.xml">
 
     <description>Game Boy Advance emulator</description>
     <systems>
