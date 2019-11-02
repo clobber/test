@@ -6,19 +6,20 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>OpenEmu Version 2.0.6</title>
+      <title>OpenEmu Version 2.1</title>
       <sparkle:releaseNotesLink>
-        http://openemu.org/rnotes/2.0.5.html
+        https://craigerskine.github.io/openemu-release-notes/
       </sparkle:releaseNotesLink>
-      <pubDate>Wed, 22 Mar 2017 12:19:50 -0600</pubDate>
+      <pubDate>Fri, 25 Oct 2019 12:19:50 -0600</pubDate>
       <enclosure
-        url="https://github.com/clobber/test/releases/download/v2.0.6/OpenEmu_2.0.6-experimental.zip"
-        sparkle:version="2.0.6"
-        sparkle:dsaSignature="MCwCFAhL1G6gvZs2/Htgvv9WzShpc+jmAhQ66JoYoLahP8Wc/U6mn25X8wVLTQ=="
+        url="https://github.com/OpenEmu/OpenEmu/releases/download/v2.1/OpenEmu_2.1-experimental.zip"
+        sparkle:version="2.1"
+        sparkle:dsaSignature="MCwCFFkfofwydgx2bKTjYY5ac6FMJ+QzAhR9KieLyl8abmqD1LUc6Ts4BU54Vg=="
         type="application/octet-stream"
-        length="42382333"
+        length="41678313"
       />
-      <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+      <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+      <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
   </channel>
 </rss>
