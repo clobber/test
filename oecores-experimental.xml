@@ -16,11 +16,8 @@
     name="CrabEmu"
     appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/crabemu_appcast.xml">
 
-    <description>Sega Master System emulator</description>
+    <description>ColecoVision emulator</description>
     <systems>
-      <system id="openemu.system.sg1000">SG-1000</system>
-      <system id="openemu.system.sms">Sega Master System</system>
-      <system id="openemu.system.gg">Game Gear</system>
       <system id="openemu.system.colecovision">ColecoVision</system>
     </systems>
   </core>
@@ -52,10 +49,13 @@
     name="Genesis Plus"
     appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/genesisplus_appcast.xml">
 
-    <description>Sega Genesis emulator</description>
+    <description>Genesis Plus GX emulator</description>
     <systems>
       <system id="openemu.system.sg">Sega Genesis/Mega Drive</system>
       <system id="openemu.system.scd">Sega CD/Mega CD</system>
+      <system id="openemu.system.sg1000">SG-1000</system>
+      <system id="openemu.system.sms">Sega Master System</system>
+      <system id="openemu.system.gg">Game Gear</system>
     </systems>
   </core>
 
@@ -90,18 +90,6 @@
     <description>Nintendo DS emulator</description>
     <systems>
       <system id="openemu.system.nds">Nintendo DS</system>
-    </systems>
-  </core>
-
-  <core
-    id="org.openemu.twombit"
-    name="TwoMbit"
-    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/twombit_appcast.xml">
-
-    <description>Sega Master System emulator</description>
-    <systems>
-      <system id="openemu.system.sms">Sega Master System</system>
-      <system id="openemu.system.gg">Game Gear</system>
     </systems>
   </core>
 
@@ -226,7 +214,7 @@
   <core
     id="org.openemu.o2em"
     name="O2EM"
-    appcastURL="https://raw.github.com/clobber/test/master/o2em_appcast.xml">
+    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/o2em_appcast.xml">
 
     <description>Odyssey2/Videopac emulator</description>
     <systems>
@@ -242,6 +230,17 @@
     <description>Game Boy Advance emulator</description>
     <systems>
       <system id="openemu.system.gba">Game Boy Advance</system>
+    </systems>
+  </core>
+
+  <core
+    id="org.openemu.dolphin"
+    name="dolphin"
+    appcastURL="https://raw.github.com/OpenEmu/OpenEmu-Update/master/dolphin_appcast.xml">
+
+    <description>GameCube emulator</description>
+    <systems>
+      <system id="openemu.system.gc">GameCube</system>
     </systems>
   </core>
 </cores>
