@@ -1,5 +1,5 @@
 ---
-name: a
+name: aaa
 about: a test
 title: ''
 labels: ''
